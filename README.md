@@ -1,0 +1,1 @@
+# jpacrudimplenentinghibernate_productentity
